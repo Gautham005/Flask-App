@@ -1,5 +1,9 @@
 # FlaskIntroduction
 
+This App can be used to perform CRUD operations.
+
+Link to access the app: https://flaskcrudapplication.herokuapp.com/
+
 This repo has been updated to work with `Python v3.8` and up.
 
 ### How To Run
